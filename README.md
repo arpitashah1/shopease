@@ -1,12 +1,37 @@
-# React + Vite
+# 🛒 Shopease
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Shopease is a modern, responsive e-commerce web application built using React.js. It provides a clean user interface, seamless product browsing experience, and basic e-commerce functionality to simulate an online shopping platform.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 💻 Fully Responsive UI
+- 🛍️ Product Listing Page
+- 🧾 Product Detail Page
+- 👤 User Profile Page
+- 🔐 Login Functionality
+- 🛒 Add to Cart
+- 📦 Redux for State Management
+- 💾 Data Persistence with Redux-Persist
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React.js, Tailwind CSS
+- **State Management**: Redux, Redux Toolkit, Redux Persist
+- **Routing**: React Router
+- **Styling**: Tailwind CSS, custom CSS
+- **Data**: Dummy JSON (Static or API based)
+
+---
+
+## 📷 Screenshots
+
+> (Add screenshots of your app here if you want — home page, product page, etc.)
+
+---
+
+## 📁 Folder Structure
+
